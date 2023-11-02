@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T3y8/log-developer.git"
+  },
+  "keywords": ["tope", "log", "log-developer", "developer", "node", "js"],
+  "author": "tope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T3y8/log-developer/issues"
+  },
+  "homepage": "https://github.com/T3y8/log-developer#readme"
 }
